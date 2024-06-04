@@ -1,5 +1,5 @@
-Madlibs Generator
-Overview
+Madlibs Generator Overview
+
 Welcome to the Madlibs Generator! This Python application allows users to create their own fun and interactive Madlibs stories by filling in blanks with words they choose. It's a simple, beginner-friendly project that's great for understanding basic programming concepts.
 
 Features
