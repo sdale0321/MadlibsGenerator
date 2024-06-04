@@ -14,16 +14,19 @@ Installation
 Clone the repository:
 
 git clone https://github.com/yourusername/madlibs-generator.git
+
 Navigate to the project directory:
 
 cd madlibs-generator
+
 Run the application:
 
 python madlibs.py
-Usage
+
 Run the script:
 
-python madlibs.py
+python madlibs.py 
+
 Follow the prompts:
 
 The program will ask you for different types of words (e.g., noun, verb, adjective).
